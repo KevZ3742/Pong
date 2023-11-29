@@ -65,6 +65,7 @@ def checkScore():
         pygame.display.flip()
         pygame.time.wait(5000)
         pygame.quit()
+        print("Game Successfuly Ended.")
         sys.exit()
  
 def checkPaddleBallCollision():
