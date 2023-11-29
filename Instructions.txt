@@ -1,0 +1,27 @@
+How to Play Pong
+
+Objective: 
+- The goal of Pong is to score points by successfully hitting a ball past your opponent's paddle.
+
+Scoring: 
+- When a player fails to return the ball, the opponent scores a point. The ball resets to the center, and the game continues.
+
+Winning: 
+- The first player to reach 10 points wins the game.
+
+Modes:
+- 1 Player: Select a difficulty with up and down arrows
+- 2 Player:
+    - Player 1 (Left Paddle): Use the 'W' key to move the paddle up and the 'S' key to move it down.
+    - Player 2 (Right Paddle): Use the up arrow key to move the paddle up and the down arrow key to move it down.
+- Online:
+    - Find a friend and a different computer.
+    - make sure the code is on both computers (availble at https://github.com/KevZ3742/Pong)
+    - Player 1 create a lobby by entering a lobby name in the create input field and hitting the create button.
+    - Player 2 join the lobby by entering the same lobby name in the join input field and hitting the join button.
+
+Additional Controls:
+    - Press I on the menu screen if you want the instructions read to you outloud.
+    - Press P on the menu screen for turtle drawing of the python logo.
+
+Good Luck and Have Fun!
