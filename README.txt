@@ -9,6 +9,11 @@ the portion of the program coded in C#.
 
 Step 3: Run Pong.py.
 
+Dependencies:
+- Pygame
+- Pyttsx3
+- Turtle
+
 Additional Information:
 - The instructions for the game is located in "Instructions.txt" in case you closed out of the notepad popup 
 - The online multiplayer portion of the game is rushed and unoptimized, dont expect the best gameplay experiance
