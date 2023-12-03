@@ -1,3 +1,15 @@
+# By submitting this assignment, I agree to the following:
+# "Aggies do not lie, cheat, or steal, or tolerate those who do."
+# "I have not given or received any unauthorized aid on this assignment."
+#
+# Name: Kevin Zhang
+# Section: 563
+# Assignment: Lab 13
+# Date: 12/3/2023 
+
+# As a team, we have gone through all required sections of the 
+# tutorial, and each team member understands the material
+
 import pygame
 import sys
 import subprocess
